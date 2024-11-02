@@ -18,7 +18,7 @@ for(let i = 0; i < 5; i++)
 
 const colorMatrix = [];
 
-const bounds = { x: 1900, y: 900 };
+const bounds = { x: 500, y: 500 };
 let frame = 0, prevFrame = 0;
 
 function init()
